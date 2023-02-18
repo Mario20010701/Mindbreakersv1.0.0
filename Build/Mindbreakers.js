@@ -20,19 +20,19 @@ var Template;
         radio: {
             name: "Radio",
             description: "Ein kleiner Radio, den du in deiner Manteltasche gefunden hast [type - radio - to use it, - Escape - to exit ;)]",
-            image: "/radio.png",
+            image: "./radio.png",
             static: true, // so wird es nicht konsumiert. wenn ich static ausklammere, kann ich drauf klicken und es ist weg
         },
         Hammerbreakers: {
             name: "Hammerbreakers",
             description: "Eine kleine Dose, bunter Pillen, die dir Alice geschenkt hat.",
-            image: "/Medics.png",
+            image: "./Medics.png",
             static: true, // so wird es nicht konsumiert. wenn ich static ausklammere, kann ich drauf klicken und es ist weg
         },
         Waffe: {
             name: "Handfeuerwaffe",
             description: "Die Luger von Shuichi",
-            image: "/Waffe.png",
+            image: "./Waffe.png",
             static: true, // so wird es nicht konsumiert. wenn ich static ausklammere, kann ich drauf klicken und es ist weg
         },
     };
