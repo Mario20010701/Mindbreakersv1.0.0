@@ -235,10 +235,8 @@ declare namespace Template {
 }
 declare namespace Template {
     let dialog: {
-        flugzeug: {
+        unnötig: {
             T0000: string;
-            T0001: string;
-            T0002: string;
         };
     };
 }

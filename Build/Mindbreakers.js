@@ -412,10 +412,8 @@ var Template;
 var Template;
 (function (Template) {
     Template.dialog = {
-        flugzeug: {
-            T0000: "Marmeladen sind lecker",
-            T0001: "Fußball ist schnell",
-            T0002: "Bin ich tatsächlich bereit dafür?",
+        unnötig: {
+            T0000: "Nein, tut mir wirklich leid, das würde jetzt viel zu lange dauern",
         },
     };
 })(Template || (Template = {}));
