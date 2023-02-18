@@ -79,7 +79,7 @@ canvas {
 /* Splashscreen */
 dialog[type="splash"] {
   z-index: 9;
-  background-image: url("/background.gif");
+  background-image: url("./Mindbreakersv1.0.0/background.gif");
   background-repeat: no-repeat;
   background-size: 100%;
 }
