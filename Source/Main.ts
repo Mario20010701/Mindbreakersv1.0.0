@@ -26,7 +26,7 @@ namespace Template {
       radio: {
         name: "Radio",
         description: "Ein kleiner Radio, den du in deiner Manteltasche gefunden hast [type - radio - to use it, - Escape - to exit ;)]",
-        image: "./Radio.png",
+        image: "./radio.png",
         static: true, // so wird es nicht konsumiert. wenn ich static ausklammere, kann ich drauf klicken und es ist weg
       },
       Hammerbreakers: {
